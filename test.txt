@@ -1,4 +1,5 @@
 this file is to test github
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 
@@ -6,3 +7,7 @@ ayoub added this line.
 =======
 test with visual studio
 >>>>>>> a6871fdce26aa2cdfa8cd577c6f393d72df31754
+=======
+this line it's been added 
+test with visua
+>>>>>>> b4580200fd74af667302c076a0c8f7392a020f75
