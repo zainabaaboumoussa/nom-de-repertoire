@@ -1,4 +1,8 @@
 this file is to test github
 
+<<<<<<< HEAD
 
 ayoub added this line.
+=======
+test with visual studio
+>>>>>>> a6871fdce26aa2cdfa8cd577c6f393d72df31754
