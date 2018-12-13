@@ -1,2 +1,2 @@
 # nom-de-repertoire
-description du projet
+Ce projet est pour tester le git.
